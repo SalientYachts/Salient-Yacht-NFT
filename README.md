@@ -1,5 +1,4 @@
 # Salient-Yacht-NFT
-Botanix NFT hackathon submission
 
 
 <p align="center">
