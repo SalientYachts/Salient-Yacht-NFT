@@ -13,7 +13,7 @@
 
 Visit Our demo Site of [Salient Yachts NFT](https://salientyachts.xyz) to test the dApp
 
-Watch the [dApp Demo ](https://youtu.be/JCu_yVMrY0k) to see how it works!
+Watch the [dApp Demo ](https://youtu.be/3EW-36rw1sU) to see how it works!
 
 
 
