@@ -3,7 +3,7 @@
 
 <p align="center">
 <br />
-<a href="https://salientyachts.com"><img src="https://salientyachts.com/Documents/s1Logo.png"  alt="logo"/></a>
+<a href="https://salientyachts.com"><img src="https://salientyachts.com/documents/s1Logo.png"  alt="logo"/></a>
 <br />
 </p>
 <br />
@@ -11,7 +11,7 @@
 
 # Preview App
 
-Visit Our demo Site of [Salient Yachts NFT](https://salientyachts.xyz) to test the dApp
+Visit Our Site of [Salient Yachts NFT](https://salientyachts.com) to test the dApp
 
 Watch the [dApp Demo ](https://youtu.be/3EW-36rw1sU) to see how it works!
 
